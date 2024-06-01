@@ -4,7 +4,8 @@
 This is a test suite for evaluating the control of different cameras.
 
 Todo:
-    * Integrate BLE pairing.
+    * Understand Bleak. 
+    * Create individual Camera classes to encapsulate functionality.
     * Integrate GoPro capture.
     * Integrate Realsense capture.
     * Integrate Genius WideCam capture.
